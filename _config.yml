@@ -3,9 +3,9 @@
 title: Objectif Agrégation
 email: objectif-agregation@h-k.fr
 description: Site web du livre Objectif Agrégation
-baseurl: "/objectifagregation"
-url: "http://gpeyre.github.io/"
-github_username:  gpeyre
+baseurl: ""
+url: "http://objectifagregation.github.io"
+github_username:  objectifagregation
 
 # Build settings
 markdown: kramdown
