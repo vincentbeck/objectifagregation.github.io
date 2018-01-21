@@ -22,5 +22,4 @@ Contenu du site
 
 * Section "Présentation" : l'avant propos du livre, ainsi que la table des matières, l'index et la bibliographie.
 * Section "Documents" : un extrait de cours, plusieurs exercices et compléments sont à télécharger.
-* Section "Liens" : des liens vers des sites web utiles pour l'agrégatif.
 * Section "Errata" : la liste des corrections et erreurs signalées.
